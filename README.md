@@ -4,4 +4,5 @@ MONET is a multimodal dataset captured using a thermal camera mounted on a drone
 <p align="center"><img src="assets/teaser.png" width="500"></p>
 
 [MONET dirtroad video example](https://youtu.be/_j7DaS2d3nY)
+
 [MONET runway video example](https://youtu.be/jGL4CvBIPC4)
