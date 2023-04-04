@@ -6,3 +6,21 @@ MONET is a multimodal dataset captured using a thermal camera mounted on a drone
 [MONET dirtroad video example (youtube)](https://youtu.be/_j7DaS2d3nY)
 
 [MONET runway video example (youtube)](https://youtu.be/jGL4CvBIPC4)
+
+## Citing our work
+Please cite the following paper if you use our code
+
+```latex
+@inproceedings{Riz2023,
+  title = {Distinctive {3D} local deep descriptors},
+  author = {Riz, Luigi and Caraffa, Andrea and Bortolon, Matteo and Mekhalfi, Mohamed Lamine and Boscani, Davide and Moura, Andr\'e and Antunes, Jos\'e and Dias, Andr\'e and Silva, Hugo and Leonidou, Andreas and Constantinides, Christos and Keleshis, Christos and Abate, Dante and Poiesi, Fabio},
+  booktitle = {IEEE Proc. of the IEEE/CVF Computer Vision and Pattern Recognition (CVPR) Workshops},
+  address = {Vancouver, Ca}
+  month = {Jun}
+  year = {2023}
+}
+```
+
+## Acknowledgements
+
+This work was carried out within the scope of the SHIELD project that received funding from the European Union’s Joint Programming Initiative – Cultural Heritage, Conservation, Protection and Use joint call.
