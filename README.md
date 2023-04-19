@@ -23,8 +23,8 @@ Please cite the following paper if you use our code
   title = {The MONET dataset: Multimodal drone thermal dataset recorded in rural scenarios},
   author = {Riz, Luigi and Caraffa, Andrea and Bortolon, Matteo and Mekhalfi, Mohamed Lamine and Boscani, Davide and Moura, Andr\'e and Antunes, Jos\'e and Dias, Andr\'e and Silva, Hugo and Leonidou, Andreas and Constantinides, Christos and Keleshis, Christos and Abate, Dante and Poiesi, Fabio},
   booktitle = {IEEE Proc. of the IEEE/CVF Computer Vision and Pattern Recognition (CVPR) Workshops},
-  address = {Vancouver, CA}
-  month = {Jun}
+  address = {Vancouver, CA},
+  month = {Jun},
   year = {2023}
 }
 ```
