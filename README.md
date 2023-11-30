@@ -9,11 +9,13 @@ MONET is a multimodal dataset captured using a thermal camera mounted on a drone
 
 [MONET runway video example (youtube)](https://youtu.be/jGL4CvBIPC4)
 
-## Training data
+## Data
 
-We share the training set only for now. The dataset uses the COCO format.
+The dataset uses the COCO format.
 
-[Download link](https://fbk-my.sharepoint.com/:f:/g/personal/poiesi_fbk_eu/Ep7luptKPA1Po6cp4EKLrm4BsgbZGrZjDnynPwvrv3NGOA?e=bcPyYu)
+[Train](https://fbk-my.sharepoint.com/:f:/g/personal/poiesi_fbk_eu/Ep7luptKPA1Po6cp4EKLrm4BsgbZGrZjDnynPwvrv3NGOA?e=bcPyYu)
+[Validation](https://fbk-my.sharepoint.com/:f:/r/personal/poiesi_fbk_eu/Documents/datasets/monet_val?csf=1&web=1&e=eixQmu)
+[Test](https://fbk-my.sharepoint.com/:f:/r/personal/poiesi_fbk_eu/Documents/datasets/monet_test?csf=1&web=1&e=86V6RO)
 
 ## Citing our work
 Please cite the following paper if you use our code
